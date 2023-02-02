@@ -1,0 +1,22 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "pnpm -C test dev"
+  },
+  "keywords": [],
+  "author": "lty",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vue": "^3.2.36"
+  },
+  "dependencies": {
+    "@fh/components": "workspace:^1.0.0",
+    "@fh/components-utils": "workspace:^1.0.0",
+    "@fh/theme-chalk": "workspace:^1.0.0"
+  }
+}
