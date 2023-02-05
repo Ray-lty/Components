@@ -1,0 +1,14 @@
+{
+  "name": "@fh/components",
+  "version": "1.0.0",
+  "description": "组件库",
+  "main": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fh-components/com": "workspace:^1.0.0",
+    "@fh-components/qq": "workspace:^1.0.0"
+  }
+}

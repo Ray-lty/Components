@@ -1,0 +1,13 @@
+{
+  "name": "@fh-components/com",
+  "version": "1.0.0",
+  "description": "测试组件",
+  "main": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fh-components/utils": "workspace:^1.0.0"
+  }
+}

@@ -1,2 +1,7 @@
-packages: 
-  - 'packages/**' # 存放编写的组件的
+packages:
+  - packages/*
+  - cli
+  - docs
+  - example
+  # exclude packages that are inside test directories
+  - '!**/test/**'
